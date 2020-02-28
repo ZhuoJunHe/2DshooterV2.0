@@ -6,6 +6,6 @@
 # 1,2,3,4,5   to change shader;
 # c or space   to change camera;
 # Esc     to go back to the intro scene;
-# mouse lift click   to shoot;
+# mouse left click   to shoot;
 # collison between bullet and targets;
 
